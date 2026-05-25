@@ -1,0 +1,23 @@
+{
+  "name": "adpages-notion-local-seo-audit-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static Notion template pack for local-service landing-page QA, campaign URLs, and lead follow-up.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "smoke": "node scripts/check.mjs --smoke"
+  },
+  "keywords": [
+    "notion",
+    "template",
+    "local-seo",
+    "landing-page",
+    "utm",
+    "lead-tracking"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
