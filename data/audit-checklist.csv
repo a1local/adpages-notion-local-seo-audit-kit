@@ -1,0 +1,13 @@
+Section,Check,Severity,Status,Owner,Notes
+Metadata,Page title includes service and location,Warning,To do,Owner,Example: Emergency Plumber Perth
+Metadata,Meta description explains offer and contact path,Warning,To do,Owner,Keep it specific and useful
+Structure,Exactly one visible H1,Warning,To do,Owner,Should match the page intent
+Conversion,Primary CTA is visible above the fold,Fail,To do,Owner,Phone form booking or quote path
+Conversion,Phone link works on mobile,Fail,To do,Owner,Use tel link where appropriate
+Conversion,Form or booking path is easy to find,Fail,To do,Owner,Do not hide the contact route
+Trust,Local proof or review signal is present,Warning,To do,Owner,Use real proof only
+Trust,Service area or suburb signal is present,Warning,To do,Owner,Relevant local context
+Tracking,Analytics or conversion tracking is planned,Warning,To do,Owner,Confirm before paid traffic
+Schema,LocalBusiness JSON-LD is present and accurate,Warning,To do,Owner,Match real business details
+Assets,Important images have alt text,Warning,To do,Owner,Decorative images can be blank
+QA,No placeholder domains or lorem ipsum remain,Fail,To do,Owner,Check before launch
